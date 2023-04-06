@@ -12,7 +12,7 @@
 
  also i am good at mobile development :)
   
-📫 How to reach me: https://www.linkedin.com/in/tugbaakin/
+📫 How to reach me: tubakkin99@gmail.com
 
   -I haven't added my work to Github for a long time, I'm gradually improving my portfolio by adding them all-
   
