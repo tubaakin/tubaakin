@@ -9,8 +9,6 @@
 🔭 I’m currently Computer Science student 3/4
 
 🌱 I’m currently learning Data Science and Machine Learning 
-
- also i am good at mobile development :)
   
 📫 How to reach me: tubakkin99@gmail.com
 
