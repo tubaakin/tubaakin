@@ -7,8 +7,6 @@
 
 -->
 🔭 I’m currently Computer Science student 3/4
-
-🌱 I’m currently learning Data Science and Machine Learning 
   
 📫 How to reach me: tubakkin99@gmail.com
 
