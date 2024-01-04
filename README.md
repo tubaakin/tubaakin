@@ -6,9 +6,8 @@
 
 
 -->
-🔭 I’m currently Computer Science student 3/4
   
-📫 How to reach me: tubakkin99@gmail.com
+📫 How to reach me: tugbaa.aakin@gmail.com
 
   -I haven't added my work to Github for a long time, I'm gradually improving my portfolio by adding them all-
   
